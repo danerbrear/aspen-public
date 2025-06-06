@@ -11,3 +11,13 @@ Aspen has the goal of giving amateur artists a platform to gain recognition and 
 - Push notifications
 - Customizeable profile
 - Search accross users, art, tags, and more
+
+## Frontend Design
+
+- Uses MVVM design pattern to manage screens
+- Follows Single Responsibility Principle for components
+- Handles app-wide state with a combination of Context API, HOC's, and global objects
+
+## Backend Architecture
+
+![Aspen Architecture|400x400](Architecture.png)
